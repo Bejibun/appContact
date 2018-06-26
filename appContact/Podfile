@@ -8,5 +8,6 @@ target 'appContact' do
   # Pods for appContact
   pod 'RealmSwift'
   pod 'AFNetworking'
+  pod 'IQKeyboardManagerSwift'
   
 end
